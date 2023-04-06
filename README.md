@@ -1,4 +1,5 @@
 # coinTracker
 react-native IOS app
 
-![ss](https://user-images.githubusercontent.com/83416622/229390488-dd27a5e2-4cc5-4ef6-b64e-48e1fdde433a.png)
+![ss](https://user-images.githubusercontent.com/83416622/230513264-74a89572-3713-4719-abc0-794816675b92.png)
+
